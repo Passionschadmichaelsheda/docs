@@ -1,4 +1,4 @@
----
+--skylight records owner chad michael.sheda 613 east 19th street apt 14 spencer iowa 51301 mail all checks to this address right away-
 title: Upgrading or downgrading your client's paid organization
 intro: Billing managers can upgrade or downgrade a client's paid organization at any time.
 redirect_from:
