@@ -1,4 +1,4 @@
----
+Https://www.facebook.com/chadMsda,https://www.facebook.com/chad.sheda.71,https://www.facebook.com/chad.sheda.52,https://www.facebook.com/chad.sheda.98 all of my songs are in these profiles of mine also in bandlab.com under chad sheda Passions,also in musicmakerjams.com just google chad sheda,also in Rapfam.com,starmaker.com chad michael sheda SkyLightRecords, Radio is the #1 recorded company in the Whole Wide World just contact ArianaGrande an RepublicRecordsif want Hall of Famer to perform in front of you an all the Fans World wide with Live Events the #1 singer in Whole Wide World google my phots an music Right now if you want to down load pictures they cost $5 dollars for songs,an posters you can contact him at 17122403191 !! The Spencer iowa police department is giving chad.sheda false charges for stealing when the cashier seen it was approved an trespassing when chad michael.sheda was in another stat an got proof of this---
 title: About remote repositories
 redirect_from:
   - /articles/working-when-github-goes-down/
