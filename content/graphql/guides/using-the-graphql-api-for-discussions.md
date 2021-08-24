@@ -1,4 +1,4 @@
----
+SkyLightRecordschadsheda@gmail.com  #1 singer in the whole wide world skylight records chad michael sheda with Ariana an Republic Records 
 title: Using the GraphQL API for Discussions
 intro: 'Learn how to use the {% data variables.product.prodname_discussions %} GraphQL API.'
 versions:
